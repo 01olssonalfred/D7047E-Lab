@@ -8,3 +8,7 @@ Skipped due to having finished the previous course D7046E.
 Lab 1: Complete
 
 Lab 2: Complete
+
+Lab 3: Complete
+
+Lab 4: Complete
